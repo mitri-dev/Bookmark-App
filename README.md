@@ -7,4 +7,5 @@ This is one of my favourites projects so far, this app lets you **bookmark** web
   - **Delete** your websites.  
   - The **URL** will be autocompleted with *https://* or *.com*. *new*     
   - Change your **Theme**! *new*  
+
 This was made with **vanilla JavaScript**.
